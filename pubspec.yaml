@@ -17,7 +17,7 @@ dependencies:
   fluttericon: ^2.0.0
   google_fonts: ^5.1.0
   ui_common:
-    git: https://github.com/brocodev/ui_common.git
+    git: https://github.com/Victor-Oluwa/common-frontend.git
 
 dev_dependencies:
   flutter_test:
