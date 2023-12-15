@@ -4,6 +4,6 @@ Welcome to the 'Animated Smart Home App'.
 
 ### Animation Preview
 
-![Preview](/gif.gif)
+![Preview](gif.gif)
 
-![App UI](/ui.png)
+![App UI](ui.png)
